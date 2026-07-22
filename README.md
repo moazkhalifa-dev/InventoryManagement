@@ -123,17 +123,17 @@ ProductId,ChangeAmount
 
 ## Implemented Requirements
 
-- ✔ Database Schema
-- ✔ Stored Procedure (`sp_AdjustStock`)
-- ✔ SQL Transactions
-- ✔ Audit Logging
-- ✔ Repository Pattern
-- ✔ Async/Await
-- ✔ Optimistic Concurrency
-- ✔ Conflict Resolution
-- ✔ DataGridView Inline Editing
-- ✔ Background CSV Import
-- ✔ Progress Reporting
+-  Database Schema
+-  Stored Procedure (`sp_AdjustStock`)
+-  SQL Transactions
+-  Audit Logging
+-  Repository Pattern
+-  Async/Await
+-  Optimistic Concurrency
+-  Conflict Resolution
+-  DataGridView Inline Editing
+-  Background CSV Import
+-  Progress Reporting
 
 ---
 
